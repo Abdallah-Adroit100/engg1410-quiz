@@ -9,6 +9,8 @@ int main(void)
 
     if(val == 'y'){
         printf("You know how to use Git!");
+    }eles{
+        printf("I don't have git account")
     }
 
     printf("\n");
